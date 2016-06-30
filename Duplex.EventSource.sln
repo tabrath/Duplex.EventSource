@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplex.EventSource", "Duplex.EventSource\Duplex.EventSource.csproj", "{D0E0DD54-0C0B-4FE2-92ED-C1A2F215A3F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplex.EventSourceConsole", "Duplex.EventSourceConsole\Duplex.EventSourceConsole.csproj", "{DFB5E602-30D5-4202-87C7-2A4583F8F1D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E0DD54-0C0B-4FE2-92ED-C1A2F215A3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E0DD54-0C0B-4FE2-92ED-C1A2F215A3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E0DD54-0C0B-4FE2-92ED-C1A2F215A3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E0DD54-0C0B-4FE2-92ED-C1A2F215A3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB5E602-30D5-4202-87C7-2A4583F8F1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB5E602-30D5-4202-87C7-2A4583F8F1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB5E602-30D5-4202-87C7-2A4583F8F1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB5E602-30D5-4202-87C7-2A4583F8F1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
